@@ -1,0 +1,17 @@
+[33mcommit 72daaed2abea8906e4282bbeb7841288b7541408[m[33m ([m[1;36mHEAD -> [m[1;32mmain[m[33m)[m
+Author: Mrs-Brightside <taniascmarques.4@gmail.com>
+Date:   Mon Oct 2 21:44:12 2023 +0100
+
+    first part of the exercise - create function getComputerChoice
+
+[33mcommit 734df2c9cd9603b6b108d5a85796c6eaedc13275[m[33m ([m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+Author: Mrs-Brightside <taniascmarques.4@gmail.com>
+Date:   Mon Oct 2 21:28:27 2023 +0100
+
+    add odin-rock-paper-scissores.html and .js
+
+[33mcommit 71c25f335032c00822f11bbafc7369109d3d0fb1[m
+Author: Tânia Marques <72359014+Mrs-Brightside@users.noreply.github.com>
+Date:   Mon Oct 2 21:24:04 2023 +0100
+
+    Initial commit
